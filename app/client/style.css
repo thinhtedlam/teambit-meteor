@@ -1,0 +1,32 @@
+.ui.topmenu {
+  padding-top: 12px;
+  padding-bottom: 20px;
+}
+
+
+.ui.grid.line {
+  padding-bottom: 30px;
+
+}
+
+.ui.header.mainheader {
+  font-size: 40px;
+}
+
+.ui.header.subheader {
+  margin-left:655px;
+  margin-right: 655px;
+  line-height: 1.6;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.ui.header.menu {
+  line-height: 1.6;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.ui.grid.bottomgrid {
+  padding-bottom: 20px;
+}
